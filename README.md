@@ -1,2 +1,2 @@
 # argon_MD
-Molecular dynamics simulation of a simple system consisted of argon atom 
+Molecular dynamics simulation of a simple system consisted of argon atoms 
