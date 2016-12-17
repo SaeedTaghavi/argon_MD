@@ -1,0 +1,10 @@
+set terminal png
+set output 'vel.png'
+set grid lw 3
+set key off
+set xrange [0:3]
+set yrange [-1:1]
+set xlabel '1e-13'
+set ylabel ''
+f(x)=a*x+b
+plot 'vel' using 1:2 w lines lw 2
